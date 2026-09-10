@@ -618,9 +618,3 @@ plot_lmm_diagnostics <- function(outcome_name, metabolite_name,
 #   metabolite_name = metabolite_names[1],
 #   model_type = "random_slope"
 # )
-
-#===========================================================
-# 12. Session information
-#===========================================================
-
-sessionInfo()
